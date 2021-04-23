@@ -6,7 +6,7 @@
 
 |OFF-OFF|ON-OFF|ON-ON|OFF-ON|
 |:--:|:--:|:--:|:--:|
-|To be added|![OFF-ON](https://github.com/DhyeyaPatel/Embedded-C/blob/master/simulation/off-on.PNG)|To be added|To be added|
+|![off-off](https://github.com/DhyeyaPatel/Embedded-C/blob/master/simulation/off-off.PNG)|![OFF-ON](https://github.com/DhyeyaPatel/Embedded-C/blob/master/simulation/off-on.PNG)|To be added|To be added|
 
 #### CI and Code Quality
 
