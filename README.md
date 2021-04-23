@@ -6,7 +6,7 @@
 
 |OFF-OFF|ON-OFF|ON-ON|OFF-ON|
 |:--:|:--:|:--:|:--:|
-|![off-off](https://github.com/DhyeyaPatel/Embedded-C/blob/master/simulation/off-off.PNG)|![OFF-ON](https://github.com/DhyeyaPatel/Embedded-C/blob/master/simulation/off-on.PNG)|![on-on](https://github.com/DhyeyaPatel/Embedded-C/blob/master/simulation/on-on.PNG)|![off-on](https://github.com/DhyeyaPatel/Embedded-C/blob/master/simulation/off-on.PNG)|
+|![off-off](https://github.com/DhyeyaPatel/Embedded-C/blob/master/simulation/off-off.PNG)|![OFF-ON](https://github.com/DhyeyaPatel/Embedded-C/blob/master/simulation/off-on.PNG)|![on-on](https://github.com/DhyeyaPatel/Embedded-C/blob/master/simulation/on-on.PNG)|![on-off](https://github.com/DhyeyaPatel/Embedded-C/blob/master/simulation/on-off.PNG)|
 
 #### CI and Code Quality
 
