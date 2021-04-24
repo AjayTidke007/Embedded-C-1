@@ -12,7 +12,7 @@
 
 |Build|Cppcheck|Codacy|
 |:--:|:--:|:--:|
-|[![Compile-Linux](https://github.com/DhyeyaPatel/Embedded-C/actions/workflows/compile.yml/badge.svg)](https://github.com/DhyeyaPatel/Embedded-C/actions/workflows/compile.yml)|To be added|To be added|
+|[![Compile-Linux](https://github.com/DhyeyaPatel/Embedded-C/actions/workflows/compile.yml/badge.svg)](https://github.com/DhyeyaPatel/Embedded-C/actions/workflows/compile.yml)|[![Cppcheck](https://github.com/DhyeyaPatel/Embedded-C/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/DhyeyaPatel/Embedded-C/actions/workflows/cppcheck.yml)|To be added|
 
 ## Wiki Documentation
 * System [SETUP](https://github.com/DhyeyaPatel/Embedded-C.git)
