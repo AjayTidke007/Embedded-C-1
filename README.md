@@ -12,7 +12,7 @@
 
 |Build|Cppcheck|Codacy|
 |:--:|:--:|:--:|
-|[![Compile-Linux](https://github.com/DhyeyaPatel/Embedded-C/actions/workflows/compile.yml/badge.svg)](https://github.com/DhyeyaPatel/Embedded-C/actions/workflows/compile.yml)|[![Cppcheck](https://github.com/DhyeyaPatel/Embedded-C/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/DhyeyaPatel/Embedded-C/actions/workflows/cppcheck.yml)|To be added|
+|[![Compile-Linux](https://github.com/DhyeyaPatel/Embedded-C/actions/workflows/compile.yml/badge.svg)](https://github.com/DhyeyaPatel/Embedded-C/actions/workflows/compile.yml)|[![Cppcheck](https://github.com/DhyeyaPatel/Embedded-C/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/DhyeyaPatel/Embedded-C/actions/workflows/cppcheck.yml)|[![Codacy Badge](https://app.codacy.com/project/badge/Grade/0a15a7f9541b44aaa7580d4c995455c0)](https://www.codacy.com/gh/DhyeyaPatel/Embedded-C/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=DhyeyaPatel/Embedded-C&amp;utm_campaign=Badge_Grade)|
 
 ## Wiki Documentation
 * System [SETUP](https://github.com/DhyeyaPatel/Embedded-C.git)
