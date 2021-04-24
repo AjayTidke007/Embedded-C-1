@@ -12,7 +12,7 @@
 
 |Build|Cppcheck|Codacy|
 |:--:|:--:|:--:|
-|To be added|To be added|To be added|
+|[![Compile-Linux](https://github.com/DhyeyaPatel/Embedded-C/actions/workflows/compile.yml/badge.svg)](https://github.com/DhyeyaPatel/Embedded-C/actions/workflows/compile.yml)|To be added|To be added|
 
 ## Wiki Documentation
 * System [SETUP](https://github.com/DhyeyaPatel/Embedded-C.git)
